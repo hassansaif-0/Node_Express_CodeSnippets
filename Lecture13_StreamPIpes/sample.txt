@@ -1,0 +1,78 @@
+
+Key Skills > Sample Data
+
+Excel Sample Data
+This page has Microsoft Excel sample datasets that you can download, to use for testing, Excel training and demos, and other learning activities. There is a table with office supply sales sample data, to copy and paste into your Excel workbook. Or download one of the many sample data files in Excel format. There are dataset examples for food sales, property insurance data, work orders, workplace safety, athletes, and other Excel datasets.
+
+Note: You many not resell this sample data, in whole or in part, or include it in paid products.
+
+Why Use Sample Data in Excel?
+
+Sample Data Files
+
+Video: Create an Excel Table
+
+Download Sample Data
+
+Related Links
+
+Why Use Sample Data in Excel?
+This page has Microsoft Excel sample datasets that you can use for testing, Excel training and demos, and other learning activities. The sample file contents are described in the sections below, so you can decide which dataset will be the best match for what you need.
+
+You can see a screen shot of each dataset, and a list of the columns it contains, with a brief description. Then, to get started, you can download sample Excel file with data for your training sessions.
+
+Why do people download my sample data workbooks, to use in Excel?
+Here are a few of the reasons that people have shared with me, as to why they like using these datasets, with dummy data for Excel:
+
+Quick way to get interesting data for Excel training class exercises
+No privacy concerns about using real data from your employer or your client's company
+Useful for testing macros and manual processes - you might discover problems that didn't occur with original test data
+Handy data to share when helping with Excel forum questions.
+Send people to this page, so they can download the sample data, and recreate their problem or error there.
+It's easier to help with troubleshooting when you both have the same data
+Easy to prepare class demos for sum and count formulas, lookup functions, pivot tables, summary reports, and other Excel skills training
+Tip: Check the Key Excel Skills page, for training topic ideas.
+Sample Data Files
+In the sections below, there are brief descriptions of the sample data files.
+
+Each section has a download link, or a link to an instruction page where you can get details about the data, and download the sample file.
+
+-- 1) Office Supply Sales
+
+-- 1a) Office Supply Sales Table
+
+-- 2) Food Sales Orders
+
+-- 3) Workplace Safety
+
+-- 4) Work Orders
+
+-- 5) Hockey Players
+
+-- 5a) Hockey Player Analysis
+
+-- 6) Winter Athletes
+
+-- 7) Football Players
+
+-- 8) Food Nutrients
+
+-- 9) Insurance Policies
+
+1) Office Supply Sales Data
+The first set of sample data on this page is sales data for an imaginary office supply company, and each row represents one sales order. There are formulas in one column - Total.
+
+Each row in the Excel dummy data shows the following fields:
+
+Order Date: first column shows when the order was placed,
+Region: geographical area in which the sale was made
+Rep: sales representative's name
+Item: name of the item sold
+Units: number of units sold
+UnitCost: cost of one unit
+Total: total cost of the order - Units x UnitCost
+To get this sample data:
+-- Copy and paste the data from the Office Supply Sales Table, further down on this page
+
+-- OR, click this link to download the Excel file: Office Supply Sales sample data workbook.
+-----The zipped file is in xlsx format, and does not contain any macros.
